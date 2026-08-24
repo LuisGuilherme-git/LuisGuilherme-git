@@ -19,6 +19,7 @@ Sou fascinado por tecnologia e busco sempre saber como posso transformar a minha
         title="LinkedIn Luís Guilherme" 
         width="30px" 
         style="padding-right: 10px;" 
+      hspace="8"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
     />
     <a href="https://www.instagram.com/_luisguilhermeee/" target="_blank">
@@ -52,7 +53,6 @@ Sou fascinado por tecnologia e busco sempre saber como posso transformar a minha
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    hspace="8"
     src="https://github-stats-extended.vercel.app/api?username=LuisGuilherme-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Luís%20Guilherme" 
   />
 
