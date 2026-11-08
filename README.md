@@ -8,11 +8,12 @@ Atualmente, estou cursando Engenharia de Software pela UFNT.
 Sou fascinado por tecnologia e busco sempre saber como posso transformar a minha realidade através dela.
 
 <p align="left">
-  <a href="https://github.com/SEU-USUARIO-GITHUB?tab=repositories">
+  <a href="https://github.com/luisguilhermedev?tab=repositories">
     <img src="https://img.shields.io/badge/MEUS%20REPOS-007EC6?style=for-the-badge&logo=github&logoColor=white" alt="My Repos">
   </a>
-  <img src="https://img.shields.io/github/stars/SEU-USUARIO-GITHUB?style=for-the-badge&color=55960c&label=Estrelas&logo=github" alt="Total de estrelas">
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO-GITHUB?style=for-the-badge&color=236ad3&label=Seguidores&logo=github" alt="Seguidores">
+  <img src="https://custom-icon-badges.demolab.com/badge/download--cloud-black.svg?logo=download-cloud&logoSource=feather" alt="download-cloud">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/luisguilhermedev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS" alt="Total de estrelas">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/luisguilhermedev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" alt="Seguidores">
 </p>
 <hr>
 <h3 align="left">👤 LinkedIn e Instagram </h3>
