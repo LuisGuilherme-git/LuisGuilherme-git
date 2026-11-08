@@ -10,6 +10,8 @@ Sou fascinado por tecnologia e busco sempre saber como posso transformar a minha
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" alt="My Repos">
   <img src="https://custom-icon-badges.demolab.com/badge/download--cloud-black.svg?logo=download-cloud&logoSource=feather" alt="download-cloud">
+  <img alt="Total de estrelas"title="Total de estrelas GitHub"src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star label=estrelas"/>
+  <img alt="Seguidores" title="Me siga no GitHub"src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
 </p>
 <hr>
 <h3 align="left">👤 LinkedIn e Instagram </h3>
